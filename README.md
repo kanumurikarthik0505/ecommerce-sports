@@ -1,4 +1,4 @@
-# Sporty Shoes 
+# Sporty Shoes - SimpliLearn Phase 3 Assessment
 
 ## Technologies Used
 
